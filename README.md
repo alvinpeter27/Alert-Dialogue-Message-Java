@@ -1,6 +1,4 @@
-![image](https://github.com/user-attachments/assets/1e350d8c-c893-43f2-aad6-58fb444bc44e)
-
-
+![image](https://github.com/user-attachments/assets/14ea4676-d1c5-473d-af30-978532eca67b)
 
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout
